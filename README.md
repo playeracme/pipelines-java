@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/syedyousufali0926/playeracme/_apis/build/status/playeracme.pipelines-java?branchName=master)](https://dev.azure.com/syedyousufali0926/playeracme/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
